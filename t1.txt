@@ -1,6 +1,2 @@
 welcome
-<<<<<<< HEAD
 city:bangalore
-=======
-city:none
->>>>>>> main
